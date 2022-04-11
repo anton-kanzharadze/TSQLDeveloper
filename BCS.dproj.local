@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.613,D:\St\vk\BCS\bcsDataSource.pas=D:\St\vk\BCS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.518,C:\vk\BCS\BCS\bcsProjectModel.pas=C:\vk\BCS\BCS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.054,D:\St\vk\BCS\bcsSourceData.dfm=D:\St\vk\BCS\bcsDataSource.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.613,D:\St\vk\BCS\bcsDataSource.dfm=D:\St\vk\BCS\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.062,D:\St\vk\BCS\bcsOEFrame.pas=D:\St\vk\BCS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.829,D:\St\vk\BCS\bcsMainForm.dfm=C:\Users\v.kanzharadze\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.545,D:\St\vk\BCS\bcsProjectFrame.pas=D:\St\vk\BCS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.054,D:\St\vk\BCS\bcsSourceData.pas=D:\St\vk\BCS\bcsDataSource.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.575,D:\St\vk\BCS\BCP.dproj=C:\Users\v.kanzharadze\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.784,=D:\St\vk\BCS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.829,D:\St\vk\BCS\bcsMainForm.pas=C:\Users\v.kanzharadze\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.564,=D:\St\vk\BCS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.148,=D:\St\vk\BCS\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,D:\St\vk\BCS\BCS.dproj=D:\St\vk\BCS\BCP.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.545,D:\St\vk\BCS\bcsProjectFrame.dfm=D:\St\vk\BCS\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.743,=C:\Users\v.kanzharadze\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.062,D:\St\vk\BCS\bcsOEFrame.dfm=D:\St\vk\BCS\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.540,=C:\vk\BCS\BCS\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
